@@ -1,0 +1,114 @@
+body {
+	background: #650101;
+}
+
+header{
+	margin: 0 auto;
+	background: black;
+	border-bottom-right-radius: 250px;
+	border-bottom-left-radius: 250px;
+}
+
+.caixa {
+	width: 100%;
+}
+
+.simbolo{
+	width: 20%;
+	display:inline;
+	margin-left: 80px;
+}
+
+.nomearfool {
+	display:inline;
+	width: 60%
+
+}
+
+nav{
+	display:inline-block;
+	position: absolute;
+	top:10;
+	right: 100;
+}
+
+nav li {
+	display: inline-block;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+
+	color: white;
+}
+
+.produtos1 {
+	width: 80%;
+	margin: 0 197 px;
+}
+
+.fontecorsairvs500ft {
+
+	width: 100%
+
+}
+
+.fontecorsairvs500 {
+	display: inline-block;
+	width:22%;
+	color: white;
+	background: #000000;
+	border-radius: 10px; 
+
+}
+
+div a {
+	font-size: 20px;
+	color: white;
+	text-decoration: none;
+}
+
+.ssdsandiskft {
+
+	width: 100%
+
+}
+
+.ssdsandisk {
+	display: inline-block;
+	width:22%;
+	color: white;
+	background: #000000;
+	border-radius: 10px; 
+
+}
+
+.memóriahyperx8ft {
+
+	width: 100%
+
+}
+
+.memóriahyperx8 {
+	
+	display: inline-block;
+	width:22%;
+	color: white;
+	background: #000000;
+	border-radius: 10px; 
+
+}
+
+.processador-amd-ryzen-9-5950xft {
+
+	width: 100%
+}
+
+.processador-amd-ryzen-9-5950x {
+
+	display: inline-block;
+	width:22%;
+	color: white;
+	background: #000000;
+	border-radius: 10px; 
+}
